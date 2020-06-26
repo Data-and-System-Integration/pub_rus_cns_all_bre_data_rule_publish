@@ -64,7 +64,7 @@
       <header>data_npd_attr_63</header>
       <definition>
         <org.drools.workbench.models.datamodel.rule.FreeFormLine>
-          <text>data.setData_npd_attr_63( data.decimalRound(((data.data_measures__sales*data.data_factor_values_4*data.data_factor_values_1)/(data.data_factor_values_2*data.data_measures__units)),2) )</text>
+          <text>data.setData_npd_attr_63( data.decimalRound(((data.data_measures__sales*data.data_factor_values_4*data.data_factor_values_1)/(data.data_factor_values_2*data.data_measures__units)),2) );</text>
         </org.drools.workbench.models.datamodel.rule.FreeFormLine>
       </definition>
       <childColumns>
@@ -83,7 +83,7 @@
       <header>Data_npd_attr_64</header>
       <definition>
         <org.drools.workbench.models.datamodel.rule.FreeFormLine>
-          <text>data.setData_npd_attr_64( data.decimalRound(((data.data_measures__sales*data.data_factor_values_5*data.data_factor_values_1)/(data.data_factor_values_2*data.data_measures__units)),2) )</text>
+          <text>data.setData_npd_attr_64( data.decimalRound(((data.data_measures__sales*data.data_factor_values_5*data.data_factor_values_1)/(data.data_factor_values_2*data.data_measures__units)),2) );</text>
         </org.drools.workbench.models.datamodel.rule.FreeFormLine>
       </definition>
       <childColumns>
